@@ -17,5 +17,6 @@ p {
     list-style-type: none;
     display: grid;
     grid-template-columns: repeat(2, 110px);
-    background: green;
+    gap: 10px;
+    justify-content: center; 
 }
