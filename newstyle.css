@@ -2,7 +2,7 @@ body {
     font-style: 'New Times Roman';
     text-align: center;
     color: white;
-    background: linear-gradient(to right, purple, pink);
+    background: purple;
 }
 
 h1 {
@@ -11,4 +11,11 @@ h1 {
 
 p {
     margin-bottom: 20px; 
+}
+
+#actions {
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(2, 110px);
+    background: green;
 }
