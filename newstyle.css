@@ -20,3 +20,8 @@ p {
     gap: 10px;
     justify-content: center; 
 }
+
+button {
+    width: 100px;
+    height: 100px; 
+}
